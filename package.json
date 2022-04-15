@@ -1,0 +1,33 @@
+{
+  "name": "@myno_21/formatted-duration",
+  "version": "1.0.0",
+  "description": "Easiest way to format the time.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "formatted-time",
+    "duration",
+    "milliseconds",
+    "seconds",
+    "minutes",
+    "date",
+    "clean-date",
+    "date-time",
+    "clock",
+    "readable-milliseconds",
+    "milliseconds to time",
+    "seconds-milliseconds"
+  ],
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
+}
