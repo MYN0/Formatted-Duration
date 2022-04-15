@@ -1,5 +1,3 @@
-<div align="center">
-<img src="./img/watch.gif" alt="stopwatch" width="200">
 
 # Formatted Duration!
 
@@ -12,8 +10,6 @@ Format seconds/milliseconds to a date/duration without struggling a bit!
 - Converts Milliseconds to a human readable date.
 
 # ❔Installation
-
-</div>
 
 ```
  $ npm install @myno_21/formatted-duration
